@@ -26,5 +26,5 @@ def main():
     mybot.idle()
 
 
-if __name__ == "__main___":
+if __name__ == "__main__":
     main()
